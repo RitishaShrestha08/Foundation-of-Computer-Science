@@ -1,0 +1,15 @@
+select * from Membership;
++-----------+-------------+------------+
+| StudentID | ClubName    | JoinDate   |
++-----------+-------------+------------+
+|         1 | Music Club  | 2024-01-10 |
+|         1 | Sports Club | 2024-01-15 |
+|         2 | Drama Club  | 2024-01-25 |
+|         2 | Sports Club | 2024-01-12 |
+|         3 | Coding Club | 2024-01-28 |
+|         3 | Music Club  | 2024-01-20 |
+|         4 | Drama Club  | 2024-01-18 |
+|         5 | Music Club  | 2024-01-22 |
+|         6 | Sports Club | 2024-01-27 |
+|         7 | Coding Club | 2024-01-30 |
++-----------+-------------+------------+

@@ -1,0 +1,16 @@
+Verification
+
++-----------+-------------+------------------+-------------+------------+----------+------------+
+| StudentID | StudentName | Email            | ClubName    | JoinDate   | ClubRoom | ClubMentor |
++-----------+-------------+------------------+-------------+------------+----------+------------+
+|         3 | Nisha       | nisha@email.com  | Coding Club | 2024-01-28 | Lab1     | Mr. Anil   |
+|         7 | Aman        | aman@email.com   | Coding Club | 2024-01-30 | Lab1     | Mr. Anil   |
+|         2 | Bikash      | bikash@email.com | Drama Club  | 2024-01-25 | R303     | Mr. Kiran  |
+|         4 | Rohan       | rohan@email.com  | Drama Club  | 2024-01-18 | R303     | Mr. Kiran  |
+|         1 | Asha        | asha@email.com   | Music Club  | 2024-01-10 | R101     | Mr. Raman  |
+|         3 | Nisha       | nisha@email.com  | Music Club  | 2024-01-20 | R101     | Mr. Raman  |
+|         5 | Suman       | suman@email.com  | Music Club  | 2024-01-22 | R101     | Mr. Raman  |
+|         1 | Asha        | asha@email.com   | Sports Club | 2024-01-15 | R202     | Ms. Sita   |
+|         2 | Bikash      | bikash@email.com | Sports Club | 2024-01-12 | R202     | Ms. Sita   |
+|         6 | Pooja       | pooja@email.com  | Sports Club | 2024-01-27 | R202     | Ms. Sita   |
++-----------+-------------+------------------+-------------+------------+----------+------------+

@@ -1,0 +1,13 @@
+describe student_club;
+
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| StudentID   | int         | NO   | PRI | NULL    |       |
+| StudentName | varchar(50) | YES  |     | NULL    |       |
+| Email       | varchar(50) | YES  |     | NULL    |       |
+| ClubName    | varchar(50) | NO   | PRI | NULL    |       |
+| ClubRoom    | varchar(50) | YES  |     | NULL    |       |
+| ClubMentor  | varchar(50) | YES  |     | NULL    |       |
+| JoinDate    | date        | YES  |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
