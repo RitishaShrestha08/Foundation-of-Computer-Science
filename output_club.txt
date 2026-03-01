@@ -1,0 +1,9 @@
+select * from Club;
++-------------+----------+------------+
+| ClubName    | ClubRoom | ClubMentor |
++-------------+----------+------------+
+| Coding Club | Lab1     | Mr. Anil   |
+| Drama Club  | R303     | Mr. Kiran  |
+| Music Club  | R101     | Mr. Raman  |
+| Sports Club | R202     | Ms. Sita   |
++-------------+----------+------------+
