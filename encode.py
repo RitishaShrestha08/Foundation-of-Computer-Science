@@ -1,4 +1,4 @@
-# beginner_encoding_decoding.py
+
 import base64
 import urllib.parse
 
@@ -40,4 +40,5 @@ def main():
             print("Invalid choice. Please enter 1, 2, or 3.")
 
 if __name__ == "__main__":
+
     main()
